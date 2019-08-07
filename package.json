@@ -1,0 +1,22 @@
+{
+  "name": "workermanager",
+  "version": "1.0.0",
+  "description": "## Introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhijitSinha1/WorkerManager.git"
+  },
+  "author": "abhijit sinha <sinha.abhijit007@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AbhijitSinha1/WorkerManager/issues"
+  },
+  "homepage": "https://github.com/AbhijitSinha1/WorkerManager#readme",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  }
+}
