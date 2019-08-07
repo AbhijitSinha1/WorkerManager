@@ -15,11 +15,10 @@ npm install
 ## Example
 
 ```shell
-node workerManager.js sampleWorker.js 10
+node workerManager.js timer.js 10
 ```
 
-This command will start 10 sub processes each running the `sampleWorker.js`. Once the task within the file is done, the `workerManager` exits. In case of long running tasks, if you quit the `workerManager`, its sub processes also treminate.
-
+This command will start 10 sub processes each running the `timer.js`. Once the task within the file is done, the `workerManager` exits. In case of long running tasks, if you quit the `workerManager`, its sub processes also terminated.
 ## Improvements
 
 ### Multi code
